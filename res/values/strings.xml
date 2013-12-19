@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AqarMap</string>
+    <string name="action_about">About</string>
+    <string name="txt_title">Aqar Map</string>
+    <string name="txt_name">Islam Samak</string>
+    <string name="txt_position">Senior Software Engineer</string>
+    <string name="txt_profile">Linked-in: http://eg.linkedin.com/pub/islam-samak/48/20b/19a</string>
+    <string name="txt_email">Email: islamsamak01@gmail.com</string>
+    <string name="txt_phone">Mobile: +201113228898</string>
+    <string name="txt_skype">Skype: islamsamak</string>
+    <string name="msg_no_content">No content is found!</string>
+    <string name="tab_title_list">List</string>
+    <string name="tab_title_map">Map</string>
+    <string name="title_about">About</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="msg_init_cities_error">Error while loading cities</string>
+    
+</resources>
